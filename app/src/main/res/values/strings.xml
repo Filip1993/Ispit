@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ispit</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="probna_poruka">Probna poruka</string>
+    <string name="back_to_first_activity">Vracamo se natrag u Main Activity</string>
+    <string name="natrag_u_main">Uspjesno vraceno natrag u Main Activity</string>
+    <string name="cancel">Cancel</string>
+    <string name="insert_name">Insert name:</string>
+    <string name="gender">Gender:</string>
+    <string name="interests">Interests:</string>
+    <string name="name">Name:</string>
+</resources>
